@@ -1,4 +1,5 @@
 # Practice-Programming-Problems
-Week01_Problem,
-Problem_1_Solved,
-Problem_2_Unsolved /n
+Week01_Problem: 
+Problem01_Solved,
+Problem02_Unsolved
+
